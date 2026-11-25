@@ -10,8 +10,8 @@ import os
 SENTENCE = (
     "On summer evenings my grandmother would lift me onto a chair to stir "
     "the tomato sauce, steam fogging my glasses while she hummed off-key, "
-    "and even now a kitchen that smells like that pulls me straight back "
-    "to her side."
+    "and even now a kitchen that smells like that puts me back on that "
+    "chair."
 )
 
 
